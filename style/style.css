@@ -1,0 +1,64 @@
+.jq-calculator {margin:15px;position:relative;display:block;background-image: -webkit-linear-gradient(top, #edf3fe 0%, #d9e4f0 100%);width:120px;height:110px;;border-radius:5px;padding:5px;border:3px solid #cae0f8 ;box-shadow: 3px 3px 5px #888888;}
+.jq-calculator input{line-height:180%;width:100%;background-image: -webkit-linear-gradient(bottom, #FFFFFF 0%, #e7edfb 100%);border-radius:3px;border:1px solid #a0abba;font-family:Segoe UI}
+.jq-calculator button:hover{background:#FFDE85;}
+.jq-calculator button{margin:2px;border:1px solid gray;background: -webkit-linear-gradient(top, #f6fafe, #eaf1f8);;border-radius:2px;width:19px;height:15px;font-family:Segoe UI;font-size:9px;;text-align:justify;color:#4a689d}
+.jq-calculator button.operators{background: -webkit-linear-gradient(top, #ecf2f8, #d5e0ee)}
+.jq-calculator button.numbers{border:1px solid #a0abba;background: -webkit-linear-gradient(top, #f6fafe, #eaf1f8)}
+.jq-calculator button.equalTo{position:relative;height:35px;background: -webkit-linear-gradient(top, #ecf2f8, #d5e0ee)}
+.jq-calculator button[value="0"]{width:43px;}
+.jq-calculator button[value="C"]{height:35px;}
+.jq-calculator button[value="="]{height:35px;}
+.jq-calculator .numbers{width:70px;float:left}
+.jq-calculator .operators{width:50px;float:left}
+
+/*name of style is "theme1" */
+
+
+.theme1 {margin:15px;position:relative;display:block;background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #FFB894), color-stop(1, #96560C));;width:120px;height:110px;;border-radius:5px;padding:5px;border:3px solid #A65B1A ;box-shadow: 3px 3px 5px #888888;}
+.theme1 input{line-height:180%;width:100%;background-image: -webkit-linear-gradient(top, #FFFFFF 0%, #FFD48A 100%);border-radius:2px;border:1px solid #a0abba;font-family:Segoe UI}
+.theme1 button:hover{background:#FFDE85;}
+.theme1 button{margin:2px;border:0px;background-image: -webkit-linear-gradient(top, #FFFFFF 0%, #FFD6BA 100%);border-radius:2px;width:19px;height:15px;font-family:Segoe UI;font-size:9px;;text-align:justify;color:#4a689d}
+.theme1 button.operators{background: -webkit-linear-gradient(top, #ecf2f8, #d5e0ee)}
+.theme1 button.numbers{border:1px solid #a0abba;background: -webkit-linear-gradient(top, #f6fafe, #eaf1f8)}
+.theme1 button.equalTo{position:relative;height:35px;background-image: -webkit-linear-gradient(top, #FFFFFF 0%, #E3BEA6 100%);}
+.theme1 button[value="0"]{width:43px;}
+.theme1 button[value="C"]{height:35px;background-image: -webkit-linear-gradient(top, #FFFFFF 0%, #E3BEA6 100%);}
+.theme1 button[value="="]{height:35px;}
+.theme1.numbers{width:70px;float:left}
+.theme1.operators{width:50px;float:left}
+
+
+
+/*name of style is "theme2"
+change the object key value to 'theme2'  */
+
+
+
+.theme2 {margin:15px;position:relative;display:block;width:120px;height:100px;;border-radius:7px;padding:5px;border:1px solid #8C8C8C;background-image: -webkit-linear-gradient(top, #8A8A8A 0%, #51535C 100%);;box-shadow: 4px 4px 4px #4A4A4A;}
+.theme2 input{line-height:18px;width:100%;border-radius:5px;border:1px solid #a0abba;border:1px solid #a0abba;font-family:Tahoma;background-image: -webkit-linear-gradient(top, #FFFFFF 0%, #D1D1D1 100%);font-size:7px;}
+.theme2 button:hover{background:#C9C9C9;}
+.theme2 button{margin:2px;border:0px;background-image: -webkit-linear-gradient(top, #E0E0E0 0%, #A6A6A6 100%);border-radius:2px;width:19px;height:15px;font-family:Tahoma;font-size:7px;text-align:center;color:#636363;box-shadow: 2px 2px 2px black;}
+.theme2 button.operators{background: -webkit-linear-gradient(top, #ecf2f8, #d5e0ee)}
+.theme2 button.numbers{border:1px solid #a0abba;background: -webkit-linear-gradient(top, #f6fafe, #eaf1f8)}
+.theme2 button.equalTo{position:relative;height:35px;background-image: -webkit-linear-gradient(top, #FFFFFF 0%, #E3BEA6 100%);}
+.theme2 button[value="0"]{width:43px;}
+.theme2 button[value="C"]{height:35px;background-image: -webkit-linear-gradient(top, #C9C9C9 0%, #B3B3B3 100%);}
+.theme2 button[value="="]{height:35px;background-image: -webkit-linear-gradient(top, #C9C9C9 0%, #B3B3B3 100%);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
